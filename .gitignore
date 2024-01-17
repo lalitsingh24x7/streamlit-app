@@ -1,0 +1,32 @@
+# .gitignore
+
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.idea/
+.vscode/
+
+# Ignore generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore user-specific IDE settings
+.idea/
+.vscode/
+
+# Ignore the virtual environment
+venv/
+.env/
